@@ -1,54 +1,84 @@
-# Privacy Policy for SnapMyShift
+Privacy Policy for SnapMyShift
 
-Effective date: [04/12/2026]
+Effective Date: April 12, 2026
 
-SnapMyShift helps users scan work schedules, create alarms, and manage shift information.
+SnapMyShift helps users scan work schedules, create alarms, manage shifts, and export schedules to their calendar.
 
-## Information We Access
+Information We Access
 
 SnapMyShift may request access to:
 
-* Camera, to let users capture schedule images for scanning
-* Photos or selected media, if the user chooses an image from their device
-* Calendar, if the user chooses to export shifts to their calendar
-* Notifications and alarms, to create shift reminders
+• Camera, to capture schedule images for scanning
+• Photos or selected media, if the user chooses an image from their device
+• Calendar access, if the user chooses to export shifts
+• Notifications, alarms, and exact alarm permissions for reminders
+• Device identifiers used to manage subscriptions, usage limits, and account features
 
-## How We Use Information
+How We Use Information
 
-We use this information to:
+We use information to:
 
-* scan and process schedule images
-* extract shift details
-* create alarms and reminders
-* export shifts to the user’s calendar when requested
-* provide premium subscription features
+• Scan and process work schedule images
+• Extract shift details using AI-powered processing
+• Create alarms, reminders, and notifications
+• Export shifts to the user’s calendar
+• Manage subscriptions, free trials, and Founder access
+• Prevent abuse, enforce scan limits, and improve app reliability
 
-## Image Processing
+Image Processing
 
-If a user scans a schedule, the image may be securely transmitted to our service providers for processing so shift data can be extracted.
+When users scan a schedule, images may be securely transmitted to backend services and AI processing providers in order to extract schedule information.
 
-## Data Storage
+Images are processed only for schedule-reading functionality.
 
-Shift data, alarms, and settings may be stored on the device. Some data may also be processed or stored by backend services used to operate the app.
+Subscriptions and Billing
 
-## Sharing
+Premium subscriptions, trials, and purchases are handled through Google Play Billing. SnapMyShift does not directly store or process credit card information.
 
-We do not sell personal data. We may share data only with service providers needed to operate app features, such as image processing or subscription services.
+Data Storage
 
-## Subscriptions
+Some information may be stored locally on the user’s device, including:
 
-Premium subscriptions are managed through Google Play. Billing information is handled by Google.
+• Saved schedules
+• Alarm settings
+• Preferences
 
-## Security
+Certain account-related information may also be securely stored on backend systems used to operate app features, including:
 
-We take reasonable steps to protect user data during transmission and storage.
+• Device identifiers
+• Subscription status
+• Usage limits and scan counts
+• Alias/profile information
 
-## Data Deletion
+Data Sharing
 
-Users may delete saved schedules and app data from within the app or by uninstalling the app. Users may also contact us with deletion requests.
+We do not sell personal data.
 
-## Contact
+We may share limited information with trusted service providers strictly required to operate app functionality, including:
 
-If you have privacy questions, contact:
+• AI processing providers
+• Cloud infrastructure providers
+• Subscription and billing services
+
+Security
+
+We take reasonable measures to help protect information during transmission and storage.
+
+Data Deletion
+
+Users may remove app data by:
+
+• Deleting schedules within the app
+• Clearing app storage
+• Uninstalling the application
+
+Users may also contact us with deletion requests.
+
+Children’s Privacy
+
+SnapMyShift is not directed toward children under 13.
+
+Contact
+
 Taron & Levi Companion
 taron.levi.companion@gmail.com
