@@ -1,66 +1,88 @@
-Privacy Policy for SnapMyShift
+# Privacy Policy for SnapMyShift
 
 Effective Date: April 12, 2026
 
 SnapMyShift helps users scan work schedules, create alarms, manage shifts, and export schedules to their calendar.
 
-Information We Access
+By using SnapMyShift, you agree to the collection and use of information as described in this Privacy Policy.
+
+## Information We Access
 
 SnapMyShift may request access to:
 
-• Camera, to capture schedule images for scanning
-• Photos or selected media, if the user chooses an image from their device
-• Calendar access, if the user chooses to export shifts
-• Notifications, alarms, and exact alarm permissions for reminders
-• Device identifiers used to manage subscriptions, usage limits, and account features
+• Camera access, to capture schedule images for scanning
+• Photos or selected media, if the user chooses images from their device
+• Calendar access, if the user chooses to export shifts to their calendar
+• Notifications, alarm permissions, foreground services, exact alarm permissions, and full-screen alarm permissions used for reminders and alarm functionality
+• Limited device and app information such as device model, manufacturer, Android version, app version, and app-generated device identifiers
 
-How We Use Information
+## How We Use Information
 
 We use information to:
 
 • Scan and process work schedule images
 • Extract shift details using AI-powered processing
-• Create alarms, reminders, and notifications
+• Create alarms, reminders, notifications, and schedule alerts
 • Export shifts to the user’s calendar
-• Manage subscriptions, free trials, and Founder access
-• Prevent abuse, enforce scan limits, and improve app reliability
+• Manage subscriptions, free trials, Founder access, and premium features
+• Prevent abuse, fraud, unauthorized usage, and bypass attempts
+• Enforce scan limits and subscription entitlements
+• Improve app reliability, diagnostics, compatibility, and overall performance
 
-Image Processing
+## Image Processing
 
 When users scan a schedule, images may be securely transmitted to backend services and AI processing providers in order to extract schedule information.
 
-Images are processed only for schedule-reading functionality.
+Images are processed only for schedule-reading functionality and are not sold to third parties.
 
-Subscriptions and Billing
+## Device and Diagnostic Information
 
-Premium subscriptions, trials, and purchases are handled through Google Play Billing. SnapMyShift does not directly store or process credit card information.
+SnapMyShift may collect limited technical and diagnostic information including:
 
-Founder Access Terms
+• Device model and manufacturer
+• Android version and SDK version
+• App version
+• App-generated device identifiers
+• Subscription and entitlement status
+• Usage statistics related to scan limits and app functionality
+
+This information is used strictly for app operation, abuse prevention, compatibility improvements, subscription enforcement, and reliability purposes.
+
+## Subscriptions and Billing
+
+Premium subscriptions, trials, and purchases are handled through Google Play Billing.
+
+SnapMyShift does not directly collect or process credit card or payment information.
+
+## Founder Access Terms
 
 Founder Access is a limited one-time purchase available to the first 12 qualifying users.
 
 Founder Access grants lifetime premium access under the current SnapMyShift premium subscription model and feature set available at the time of purchase.
 
-SnapMyShift may introduce new optional features, services, integrations, enterprise functionality, cloud features, AI systems, or separately licensed products in the future that may not be included as part of Founder Access.
+SnapMyShift may introduce new optional features, services, integrations, enterprise functionality, cloud features, AI systems, premium processing systems, or separately licensed products in the future that may not be included as part of Founder Access.
 
-Founder Access is non-transferable, tied to the original qualifying account, and may be revoked in cases of fraud, abuse, chargebacks, platform policy violations, or attempts to bypass usage protections.
+Founder Access is non-transferable, tied to the original qualifying account, and may be revoked in cases of fraud, abuse, chargebacks, platform policy violations, unauthorized account sharing, or attempts to bypass usage protections or subscription systems.
 
-Data Storage
+## Data Storage
 
 Some information may be stored locally on the user’s device, including:
 
 • Saved schedules
 • Alarm settings
-• Preferences
+• App preferences
+• Locally cached shift information
 
-Certain account-related information may also be securely stored on backend systems used to operate app features, including:
+Certain account-related and operational information may also be securely stored on backend systems used to operate app features, including:
 
-• Device identifiers
-• Subscription status
+• App-generated device identifiers
+• Device model and Android version
+• Subscription and entitlement status
 • Usage limits and scan counts
 • Alias/profile information
+• App version and limited diagnostic information
 
-Data Sharing
+## Data Sharing
 
 We do not sell personal data.
 
@@ -68,13 +90,18 @@ We may share limited information with trusted service providers strictly require
 
 • AI processing providers
 • Cloud infrastructure providers
-• Subscription and billing services
+• Subscription and billing providers
+• Analytics, diagnostics, or reliability providers
 
-Security
+Information is shared only as necessary to operate the application and its services.
 
-We take reasonable measures to help protect information during transmission and storage.
+## Security
 
-Data Deletion
+We take reasonable administrative, technical, and organizational measures to help protect information during transmission, processing, and storage.
+
+However, no method of electronic transmission or storage is completely secure.
+
+## Data Deletion
 
 Users may remove app data by:
 
@@ -82,13 +109,17 @@ Users may remove app data by:
 • Clearing app storage
 • Uninstalling the application
 
-Users may also contact us with deletion requests.
+Users may also contact us with deletion requests related to backend-stored account information.
 
-Children’s Privacy
+## Children’s Privacy
 
-SnapMyShift is not directed toward children under 13.
+SnapMyShift is not directed toward children under the age of 13.
 
-Contact
+## Changes to This Policy
+
+This Privacy Policy may be updated periodically to reflect app updates, legal requirements, or operational changes. Continued use of SnapMyShift after changes become effective constitutes acceptance of the updated policy.
+
+## Contact
 
 Taron & Levi Companion
-taron.levi.companion@gmail.com
+[taron.levi.companion@gmail.com](mailto:taron.levi.companion@gmail.com)
